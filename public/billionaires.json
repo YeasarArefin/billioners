@@ -1,0 +1,152 @@
+[
+    {
+        "ranking": 1,
+        "name": "Jeff Bezos",
+        "age": 57,
+        "residence": "Seattle",
+        "company": "Amazon",
+        "worth": "$177 billion",
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D627%26cropX2%3D1639%26cropY1%3D129%26cropY2%3D1142",
+        "price": 1800
+    },
+    {
+        "ranking": 2,
+        "name": "Elon Musk",
+        "age": 50,
+        "residence": "Austin, Texas",
+        "company": "Tesla",
+        "worth": "$151 billion",
+        "img": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc5OTk2ODUyMTMxNzM0ODcy/gettyimages-1229892983-square.jpg",
+        "price": 1200
+    },
+    {
+        "ranking": 3,
+        "name": "Bernard Arnault",
+        "age": 72,
+        "residence": "Paris",
+        "company": "LVMH",
+        "worth": "$150 billion",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsh0VUt18Uu0WKEL--oXc8SU1DMbtFNfaXMOhINyDAUDPAR6JwvZyhpSrnACh5kehINg8&usqp=CAU",
+        "price": 1000
+    },
+    {
+        "ranking": 4,
+        "name": "Bill Gates",
+        "age": 65,
+        "residence": "Medina, Washington",
+        "company": "Microsoft Corp",
+        "worth": "$124 billion",
+        "img": "https://yt3.ggpht.com/KyXAUjlAH_yiPIv9g8H_0dpP1_iRIqFiKudBzLHhyBhKQ65OgqHJQPz5MB9Dy-Gm0MOUlHcxjg=s900-c-k-c0x00ffffff-no-rj",
+        "price": 1300
+    },
+    {
+        "ranking": 5,
+        "name": "Mark Zuckerberg",
+        "age": 37,
+        "residence": "Palo Alto, Calif",
+        "company": "Facebook",
+        "worth": "$97 billion",
+        "img": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTQyMDA0NDgwMzUzNzcyNjA2/mark-zuckerberg_gettyimages-512304736jpg.jpg",
+        "price": 1500
+    },
+    {
+        "ranking": 6,
+        "name": "Warren Buffett",
+        "age": 91,
+        "residence": "Omaha, Nebraska",
+        "company": "Berkshire Hathaway",
+        "worth": "$96 billion",
+        "img": "https://pbs.twimg.com/profile_images/3599636117/8468a03db84ec4211c3efeba18ac3925_400x400.png",
+        "price": 1250
+    },
+    {
+        "ranking": 7,
+        "name": "Larry Ellison",
+        "age": 77,
+        "residence": "Lanai, Hawaii",
+        "company": "Oracle",
+        "worth": "$93 billion",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/Larry_Ellison_picture.png",
+        "price": 700
+    },
+    {
+        "ranking": 8,
+        "name": "Larry Page",
+        "age": 48,
+        "residence": "Palo Alto, California",
+        "company": "Alphabet",
+        "worth": "$91.5 billion",
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76bcaaa7ea43100043c836%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D227%26cropX2%3D2022%26cropY1%3D22%26cropY2%3D1817",
+        "price": 950
+    },
+    {
+        "ranking": 9,
+        "name": "Sergey Brin",
+        "age": 48,
+        "residence": "Los Altos, California",
+        "company": "Alphabet",
+        "worth": "$89 billion",
+        "img": "https://whatsthenetworth.com/wp-content/uploads/2021/07/Sergey-Brin.jpeg",
+        "price": 600
+    },
+    {
+        "ranking": 10,
+        "name": "Mukesh Ambani",
+        "age": 64,
+        "residence": "Mumbai, India",
+        "company": "Reliance Industries",
+        "worth": "$84.5 billion",
+        "img": "https://pbs.twimg.com/media/EX00eMwX0AALr-E.jpg",
+        "price": 850
+    },
+    {
+        "ranking": 11,
+        "name": "Amancio Ortega",
+        "age": 85,
+        "residence": "Spain",
+        "company": "Zara",
+        "worth": "$77 billion",
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76b94131358e35dd27748e%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D179%26cropX2%3D2232%26cropY1%3D216%26cropY2%3D2269",
+        "price": 1000
+    },
+    {
+        "ranking": 12,
+        "name": "Francoise Bettencourt Meyers",
+        "age": 67,
+        "residence": "France",
+        "company": "L'Oréal",
+        "worth": "$73.6 billion",
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605e26e3c65f7c2596bd3e15%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080",
+        "price": 760
+    },
+    {
+        "ranking": 13,
+        "name": "Zhong Shanshan",
+        "age": 66,
+        "residence": "China",
+        "company": "beverages, pharmaceuticals",
+        "worth": "$68.9 billion",
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60380e390357bc1fbfc0bc32%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D116%26cropX2%3D1327%26cropY1%3D201%26cropY2%3D1413",
+        "price": 985
+    },
+    {
+        "ranking": 14,
+        "name": "Steve Ballmer",
+        "age": 65,
+        "residence": "United States",
+        "company": "Microsoft",
+        "worth": "$68.7 billion",
+        "img": "https://images.squarespace-cdn.com/content/v1/5a1340ef914e6bf3c0764c0c/1536789061425-UG7GTFM3MYOLK0VM2L41/Steve+Ballmer_Randell_Walton_Photography_7R7A3416-Edit_edited.jpg?format=1000w",
+        "price": 825
+    },
+    {
+        "ranking": 15,
+        "name": "Ma Huateng",
+        "age": 49,
+        "residence": "China",
+        "company": "Tencent",
+        "worth": "$65.8 billion",
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605e23c0f0986f688fbd3e15%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080",
+        "price": 685
+    }
+]
